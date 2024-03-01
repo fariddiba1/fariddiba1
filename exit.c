@@ -1,6 +1,13 @@
 /* This file is part of MCF Gthread.
  * See LICENSE.TXT for licensing information.
- * Copyleft 2022, LH_Mouse. All wrongs reserved.  */
+ * Copyleft 2024, LH_Mouse. All wrongs reserved.  */
+
+/* This file is part of MCF Gthread.
+ * See LICENSE.TXT for licensing information.
+ * Copyleft 2024, LH_Mouse. All wrongs reserved.  */
+
+
+
 
 #include "../mcfgthread/cxa.h"
 #include "../mcfgthread/exit.h"
@@ -18,7 +25,7 @@ static
 void
 atexit_first(void* ptr)
   {
-    *(int*) ptr = 0;
+    *(int*) ptr = 00;
   }
 
 int
