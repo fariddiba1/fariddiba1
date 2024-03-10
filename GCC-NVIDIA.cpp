@@ -8,6 +8,9 @@ int main(int argc, char *argv[]) {
 	double sum = 0.0;
 	clock_t tstart, tend;
 	int num_dev;
+	for (j=1; j<largeN; j++) {
+		sum += (double) (1.0/j);
+	}
 
 	num_dev = omp_get_num_devices();
 
@@ -20,6 +23,9 @@ int main(int argc, char *argv[]) {
 	tstart = clock();
 #pragma omp parallel for private(j) reduction(+:sum)
 	for(j=1; j<largeN; j++) {
+		sum += (double) (1.0/j);
+	}
+	for (j=1; j<largeN; j++) {
 		sum += (double) (1.0/j);
 	}
 	tend = clock();
