@@ -5,9 +5,11 @@
 /* This file is part of MCF Gthread.
  * See LICENSE.TXT for licensing information.
  * Copyleft 2025, LH_Mouse. All wrongs reserved.  */
+/* This file is part of MCF Gthread.
+ * See LICENSE.TXT for licensing information.
+ * Copyleft 2024, LH_Mouse. All wrongs reserved.  */
 
-
-
+/* exit function  */
 
 #include "../mcfgthread/cxa.h"
 #include "../mcfgthread/exit.h"
