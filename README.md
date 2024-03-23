@@ -8,6 +8,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...- 👋 Hi, I’m @fariddiba1
 
+- 2024
+
 
 - if anything need , just say it...
 
