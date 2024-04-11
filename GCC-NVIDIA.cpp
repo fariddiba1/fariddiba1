@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <omp.h>
-
+#include <time.h>
+#include <omp.h>
 int main(int argc, char *argv[]) {
 	long long int j, largeN;
 	double sum = 0.0;
