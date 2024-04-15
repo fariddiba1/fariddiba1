@@ -1,6 +1,6 @@
 /* This file is part of MCF Gthread.
  * See LICENSE.TXT for licensing information.
- * Copyleft 2024, LH_Mouse. All wrongs reserved.  */
+ * Copyleft 2024, LH_Mouse. 22 All wrongs reserved.  */
 
 /* This file is part of MCF Gthread.
  * See LICENSE.TXT for licensing information.
