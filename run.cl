@@ -6,8 +6,8 @@
 // a good
 // language
 // c++
-//
-//
+// paskal
+// java +
 //
 //
 //
