@@ -7,6 +7,16 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...- 👋 Hi, I’m 
 
+- 2020-2024
+ 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...- 👋 Hi, I’m 
+
+- 2024
+ 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...- 👋 Hi, I’m 
+
 - 2024
 
 
