@@ -18,7 +18,7 @@
 - 📫 How to reach me ...- 👋 Hi, I’m 
 
 - 2024
-Join us for the 10th anniversary of GitHub Universe on October 29-30 in San Francisco, CA, or virtually, to experience the magic of the world’s fair of software. With over 150+ speakers, 100+ sessions, and countless networking opportunities, you’ll gain the knowledge and expertise you need to harness the full power of GitHub, the world’s leading AI-powered developer platform. Discover how to enhance team productivity, foster career growth, make powerful connections, and drive meaningful change with the latest in AI, DevEx, and security. 
+Join us for the 10th anniversary of GitHub Universe on October 29-30 in San Francisco, CA, or virtually, to experience the magic of the world’s fair of softwaspeakers, 100+ sessions, and countless networking opportunities, you’ll gain the knowledge and expertise you need to harness the full power of GitHub, the world’s leading AI-powered developer platform. Discover how to enhance team productivity, foster career growth, make powerful connections, and drive meaningful change with the latest in AI, DevEx, and security. 
 
 - if anything need , just say it...
 
