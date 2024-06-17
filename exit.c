@@ -2,7 +2,7 @@
  * See LICENSE.TXT for licensing information.
  * Copyleft 2024, LH_Mouse. 22 All wrongs reserved.  */
 
-/* This file is part of MCF Gthread.
+/* This file is part of MCF Gthread. in 2024
  * See LICENSE.TXT for licensing information.
  * Copyleft 2025, LH_Mouse. All wrongs reserved.  */
 /* This file is part of MCF Gthread.
