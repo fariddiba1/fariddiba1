@@ -23,7 +23,7 @@ Join us for the 10th anniversary of GitHub Universe on October 29-30 in San Fran
 - if anything need , just say it...
 
 <!---
-fariddiba1/fariddiba1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fariddiba1/fariddiba1 is a ✨ special ✨ repository because its `README.md` (this) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 - language c++
