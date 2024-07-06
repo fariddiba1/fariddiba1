@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fariddiba1 in github
-- 👀 I’m interested in
+- 👀 I’m intereste
 - 🌱 I’m curreearning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- 👋 Hi, I’m @farid
